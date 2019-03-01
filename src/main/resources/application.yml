@@ -4,4 +4,4 @@ spring:
     prefix: /
 server:
   port: 6789
-  context-path: /FS
+  context-path: /SF
