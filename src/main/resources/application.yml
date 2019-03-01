@@ -1,0 +1,7 @@
+spring:
+  freemarker:
+    suffix: .ftl
+    prefix: /
+server:
+  port: 6789
+  context-path: /FS
